@@ -1,0 +1,2 @@
+# assets
+public cdn
